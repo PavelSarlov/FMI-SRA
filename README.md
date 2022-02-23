@@ -1,2 +1,3 @@
 # FMI-SRA
-FMI - Software Requirements Analysis
+
+Materials, homeworks and stuff during the course.
