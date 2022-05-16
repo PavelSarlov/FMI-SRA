@@ -6,7 +6,7 @@
   <ProjectOpenedTabName>pgUseCases</ProjectOpenedTabName>
   <Sorting>
     <UseCaseViewSortColumns>
-      <string>Name</string>
+      <string>UserID</string>
       <string />
       <string />
     </UseCaseViewSortColumns>
@@ -36,7 +36,7 @@
       <boolean>false</boolean>
     </StoryViewSortOrder>
     <RequirementViewSortColumns>
-      <string>Name</string>
+      <string>UserID</string>
       <string />
       <string />
     </RequirementViewSortColumns>
@@ -95,7 +95,16 @@
   <ExpandedNodes>
     <string>SuperPlanner</string>
     <string>SuperPlanner\Вход</string>
+    <string>SuperPlanner\Търсене на услуги</string>
+    <string>SuperPlanner\Търсене на услуги\Избиране на услуга</string>
+    <string>SuperPlanner\Търсене на услуги\Избиране на услуга\Преглеждане на детайлите за услугата</string>
+    <string>SuperPlanner\Редакция на графика за клиенти</string>
+    <string>SuperPlanner\Редакция на собствения график</string>
+    <string>SuperPlanner\Редакция на профила</string>
+    <string>SuperPlanner\Разглеждане на списък със записани клиенти</string>
+    <string>SuperPlanner\Абониране към платформата</string>
+    <string>SuperPlanner\Вход в профила</string>
   </ExpandedNodes>
-  <SelectedNode>SuperPlanner\Вход\Activity Diagram</SelectedNode>
+  <SelectedNode>SuperPlanner\Двустъпкова автентикация</SelectedNode>
   <Flags />
 </ModelSettings>

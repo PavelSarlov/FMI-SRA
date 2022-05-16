@@ -23,7 +23,7 @@
     <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T20:34:02.8789182+03:00</DateAdded>
-    <DateModified>2022-05-14T09:48:32.2762159+03:00</DateModified>
+    <DateModified>2022-05-16T12:18:14.122208+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-0711b037-7e32-42fb-9e28-609a3f354752</UniqueID>
@@ -43,7 +43,7 @@
     <TestingSetup />
     <TestingConfigurations />
     <DateAdded>2022-05-10T20:34:10.5464929+03:00</DateAdded>
-    <DateModified>2022-05-14T16:27:18.9363387+03:00</DateModified>
+    <DateModified>2022-05-16T11:48:20.4404398+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a4a727d8-fa9b-44f8-9315-37b324ec1fe7</UniqueID>
@@ -53,237 +53,257 @@
     <Sequence>2</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T21:01:17.9188862+03:00</DateAdded>
-    <DateModified>2022-05-14T09:48:30.1001517+03:00</DateModified>
+    <DateModified>2022-05-16T12:18:59.1749664+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-e0cd8f1c-16b1-4a5a-bff9-57316b1ea3c1</UniqueID>
-    <UserID>UC-28</UserID>
+    <UserID>UC-11</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Заявка на час</Name>
-    <Sequence>24</Sequence>
+    <Sequence>10</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T21:03:43.1096635+03:00</DateAdded>
-    <DateModified>2022-05-14T10:02:44.7564258+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8671885+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-d804cba4-4d9f-430a-b76e-42babf85e21a</UniqueID>
-    <UserID>UC-29</UserID>
+    <UserID>UC-12</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Одобрение на час</Name>
-    <Sequence>25</Sequence>
+    <Sequence>11</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T21:03:47.957661+03:00</DateAdded>
-    <DateModified>2022-05-14T10:02:47.0888514+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8691878+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-9ca58410-812e-48eb-ac5d-11cde172e300</UniqueID>
-    <UserID>UC-6</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-3.1</UserID>
+    <ParentID>UC-a4a727d8-fa9b-44f8-9315-37b324ec1fe7</ParentID>
     <Name>Филтриране</Name>
-    <Sequence>3</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T21:03:55.3578477+03:00</DateAdded>
-    <DateModified>2022-05-10T21:18:03.6369273+03:00</DateModified>
+    <DateModified>2022-05-16T12:06:49.8866073+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-b876986c-10ae-4f19-aa3a-6d01743acdf9</UniqueID>
-    <UserID>UC-7</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-3.2</UserID>
+    <ParentID>UC-a4a727d8-fa9b-44f8-9315-37b324ec1fe7</ParentID>
     <Name>Сортиране</Name>
-    <Sequence>4</Sequence>
+    <Sequence>1</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T21:05:43.2383569+03:00</DateAdded>
-    <DateModified>2022-05-10T21:18:24.0050562+03:00</DateModified>
+    <DateModified>2022-05-16T12:06:51.5150451+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-0cda49fb-47c7-46e7-a03e-cb60ee2f6067</UniqueID>
-    <UserID>UC-8</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-3.3</UserID>
+    <ParentID>UC-a4a727d8-fa9b-44f8-9315-37b324ec1fe7</ParentID>
     <Name>Избиране на услуга</Name>
-    <Sequence>5</Sequence>
+    <Sequence>2</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T21:06:06.7418864+03:00</DateAdded>
-    <DateModified>2022-05-10T21:17:39.0527834+03:00</DateModified>
+    <DateModified>2022-05-16T12:06:53.0991331+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-1beeb05b-561c-46a7-a186-7bd7123ee50a</UniqueID>
-    <UserID>UC-10</UserID>
+    <UserID>UC-4</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Редакция на графика за клиенти</Name>
-    <Sequence>6</Sequence>
+    <Sequence>3</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T21:24:24.1578835+03:00</DateAdded>
-    <DateModified>2022-05-14T09:42:17.2268888+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8402206+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-66883329-aa34-4357-90f8-00be4eb75320</UniqueID>
-    <UserID>UC-11</UserID>
+    <UserID>UC-5</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Редакция на собствения график</Name>
-    <Sequence>7</Sequence>
+    <Sequence>4</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-10T21:24:33.3622329+03:00</DateAdded>
-    <DateModified>2022-05-14T09:48:16.1160543+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8462186+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-90c058ee-1ad5-46e7-8195-bb521e963432</UniqueID>
-    <UserID>UC-12</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-2.1</UserID>
+    <ParentID>UC-0711b037-7e32-42fb-9e28-609a3f354752</ParentID>
     <Name>Двусъпкова автентикация</Name>
-    <Sequence>8</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:23:56.1717034+03:00</DateAdded>
-    <DateModified>2022-05-14T09:24:10.3733343+03:00</DateModified>
+    <DateModified>2022-05-16T12:15:26.7011644+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-f2b38c17-bdc9-40d9-b436-b14e3af34855</UniqueID>
-    <UserID>UC-13</UserID>
+    <UserID>UC-6</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Излизане от профила</Name>
-    <Sequence>9</Sequence>
+    <Sequence>5</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:25:44.2910342+03:00</DateAdded>
-    <DateModified>2022-05-14T09:28:45.1040864+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8482179+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-c1f61919-7d82-4439-be72-230cb358767e</UniqueID>
-    <UserID>UC-14</UserID>
+    <UserID>UC-7</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Редакция на профила</Name>
-    <Sequence>10</Sequence>
+    <Sequence>6</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:29:30.5471223+03:00</DateAdded>
-    <DateModified>2022-05-14T09:29:46.0688734+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8542201+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-469a6013-f93c-4785-8bef-f6979f40ab64</UniqueID>
-    <UserID>UC-15</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-7.1</UserID>
+    <ParentID>UC-c1f61919-7d82-4439-be72-230cb358767e</ParentID>
     <Name>Промяна на паролата</Name>
-    <Sequence>11</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:30:03.8911576+03:00</DateAdded>
-    <DateModified>2022-05-14T09:30:12.0546502+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8502182+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-0362c147-7acb-4fc6-8da8-4a69a32f9cca</UniqueID>
-    <UserID>UC-16</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-7.2</UserID>
+    <ParentID>UC-c1f61919-7d82-4439-be72-230cb358767e</ParentID>
     <Name>Промяна на основната информация на профила</Name>
-    <Sequence>12</Sequence>
+    <Sequence>1</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:30:16.3910348+03:00</DateAdded>
-    <DateModified>2022-05-14T09:30:23.3242804+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.852219+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-9f6ec490-5344-4ff0-8a2c-79bbef68163c</UniqueID>
-    <UserID>UC-17</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-3.4</UserID>
+    <ParentID>UC-a4a727d8-fa9b-44f8-9315-37b324ec1fe7</ParentID>
     <Name>Визуализация на намерените услуги</Name>
-    <Sequence>13</Sequence>
+    <Sequence>3</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:30:58.1319659+03:00</DateAdded>
-    <DateModified>2022-05-14T09:31:05.6530585+03:00</DateModified>
+    <DateModified>2022-05-16T12:10:37.0708223+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-870e7339-6f06-438c-ab7d-e12bfa45bdfe</UniqueID>
-    <UserID>UC-18</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-4.1</UserID>
+    <ParentID>UC-1beeb05b-561c-46a7-a186-7bd7123ee50a</ParentID>
     <Name>Верификация на промяната</Name>
-    <Sequence>14</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:33:57.1561137+03:00</DateAdded>
-    <DateModified>2022-05-14T09:35:14.2568366+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8372191+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-82a4aab5-29e1-43ce-ab11-c11b0020d5d2</UniqueID>
-    <UserID>UC-19</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-5.1</UserID>
+    <ParentID>UC-66883329-aa34-4357-90f8-00be4eb75320</ParentID>
     <Name>Бележки към ангажиментите</Name>
-    <Sequence>15</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:36:44.0678891+03:00</DateAdded>
-    <DateModified>2022-05-14T09:36:58.7247666+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.84419+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-19871270-9a93-4190-915b-94560941fe44</UniqueID>
-    <UserID>UC-20</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-8.1</UserID>
+    <ParentID>UC-a3d00704-0447-4ec6-af5a-9cba53e6362f</ParentID>
     <Name>Бележки за клиентите</Name>
-    <Sequence>16</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:37:04.196125+03:00</DateAdded>
-    <DateModified>2022-05-14T09:37:10.8775213+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8562184+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-e838b94f-f969-4a31-acae-83ac9dcf6f57</UniqueID>
-    <UserID>UC-21</UserID>
+    <UserID>UC-13</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Заключване на повтарящ се ангажимент</Name>
-    <Sequence>17</Sequence>
+    <Sequence>12</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:37:16.1237711+03:00</DateAdded>
-    <DateModified>2022-05-14T09:37:23.6931222+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8711879+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a3d00704-0447-4ec6-af5a-9cba53e6362f</UniqueID>
-    <UserID>UC-22</UserID>
+    <UserID>UC-8</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Разглеждане на списък със записани клиенти</Name>
-    <Sequence>18</Sequence>
+    <Sequence>7</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:37:29.6861261+03:00</DateAdded>
-    <DateModified>2022-05-14T09:53:40.9700284+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8582187+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-1f1938ba-1cce-42b6-b97f-772738750325</UniqueID>
-    <UserID>UC-23</UserID>
+    <UserID>UC-9</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Известяване за приближаващ ангажимент</Name>
-    <Sequence>19</Sequence>
+    <Sequence>8</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:37:46.7561423+03:00</DateAdded>
-    <DateModified>2022-05-14T09:51:12.2019941+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8601885+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-efbfcd10-f0dd-43ea-8aef-6da0e34adb07</UniqueID>
-    <UserID>UC-24</UserID>
+    <UserID>UC-10</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Абониране към платформата</Name>
-    <Sequence>20</Sequence>
+    <Sequence>9</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:38:48.2200017+03:00</DateAdded>
-    <DateModified>2022-05-14T09:39:14.2090716+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8641877+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-b4206472-1f05-4b70-af44-b85917b94ec7</UniqueID>
-    <UserID>UC-25</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-10.1</UserID>
+    <ParentID>UC-efbfcd10-f0dd-43ea-8aef-6da0e34adb07</ParentID>
     <Name>Извършване на избран вид плащане</Name>
-    <Sequence>21</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:41:00.1400221+03:00</DateAdded>
-    <DateModified>2022-05-14T09:50:22.6111438+03:00</DateModified>
+    <DateModified>2022-05-16T12:21:09.8621881+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-e73486ff-2ecd-4ea2-936c-b4c6eb883303</UniqueID>
-    <UserID>UC-26</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-3.3.1</UserID>
+    <ParentID>UC-0cda49fb-47c7-46e7-a03e-cb60ee2f6067</ParentID>
     <Name>Преглеждане на детайлите за услугата</Name>
-    <Sequence>22</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:45:09.660127+03:00</DateAdded>
-    <DateModified>2022-05-14T09:45:21.6471254+03:00</DateModified>
+    <DateModified>2022-05-16T12:17:19.0315362+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-8ac44894-310a-43cb-90cf-f2140d77ead2</UniqueID>
-    <UserID>UC-27</UserID>
-    <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
+    <UserID>UC-3.3.1.1</UserID>
+    <ParentID>UC-e73486ff-2ecd-4ea2-936c-b4c6eb883303</ParentID>
     <Name>Карта на адреса на услугата</Name>
-    <Sequence>23</Sequence>
+    <Sequence>0</Sequence>
     <Priority>1</Priority>
     <DateAdded>2022-05-14T09:45:37.5680246+03:00</DateAdded>
-    <DateModified>2022-05-14T09:50:03.5872695+03:00</DateModified>
+    <DateModified>2022-05-16T12:16:51.7585692+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-354cd8d7-bba7-4061-ac60-cc2da8cc5a71</UniqueID>
+    <UserID>UC-2.2</UserID>
+    <ParentID>UC-0711b037-7e32-42fb-9e28-609a3f354752</ParentID>
+    <Name>Възстановяване на паролата</Name>
+    <Sequence>1</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2022-05-16T12:11:49.5664057+03:00</DateAdded>
+    <DateModified>2022-05-16T12:13:37.0400964+03:00</DateModified>
   </UseCase>
   <Actor>
     <UniqueID>A-0decb20e-787a-4eff-b4cb-45deaa02488f</UniqueID>
@@ -353,14 +373,6 @@
     <Sequence>2</Sequence>
     <FileName>user-case-3.ndx</FileName>
     <Type>0</Type>
-  </Diagram>
-  <Diagram>
-    <UniqueID>D-a34da8cb-9bd5-4617-95d5-dc9d219ead04</UniqueID>
-    <ParentID>UC-0711b037-7e32-42fb-9e28-609a3f354752</ParentID>
-    <Name>Activity Diagram</Name>
-    <Sequence>0</Sequence>
-    <FileName>ВходActivityDiagram.ndx</FileName>
-    <Type>1</Type>
   </Diagram>
   <UCActor>
     <ParentID>UC-f2b38c17-bdc9-40d9-b436-b14e3af34855</ParentID>
@@ -502,6 +514,98 @@
   <UCReq>
     <ParentID>UC-1beeb05b-561c-46a7-a186-7bd7123ee50a</ParentID>
     <ReqID>REQ-bbb64d0d-2358-4359-b5c6-e4491d5e4288</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-efbfcd10-f0dd-43ea-8aef-6da0e34adb07</ParentID>
+    <ReqID>REQ-75c4aff4-ecbd-4ef0-bb29-c8f91d9e9075</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-19871270-9a93-4190-915b-94560941fe44</ParentID>
+    <ReqID>REQ-80803fe4-a934-439e-9a0a-7aad731367ef</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-82a4aab5-29e1-43ce-ab11-c11b0020d5d2</ParentID>
+    <ReqID>REQ-d03a793b-ba8d-49bb-8e02-c134dbdeccf2</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-870e7339-6f06-438c-ab7d-e12bfa45bdfe</ParentID>
+    <ReqID>REQ-1c077d50-f12f-4ee0-a100-1b4fc5e4931e</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-9f6ec490-5344-4ff0-8a2c-79bbef68163c</ParentID>
+    <ReqID>REQ-a22aa4dd-be4d-40e3-bcf8-53d0f1e538f1</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-354cd8d7-bba7-4061-ac60-cc2da8cc5a71</ParentID>
+    <ReqID>REQ-2fefaa99-256b-44ff-949b-7d00a1802664</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-90c058ee-1ad5-46e7-8195-bb521e963432</ParentID>
+    <ReqID>REQ-b1530fa5-1c1d-4ad9-ab25-6c5e2f967238</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-e838b94f-f969-4a31-acae-83ac9dcf6f57</ParentID>
+    <ReqID>REQ-a0ca8ce5-869d-4735-a72a-ca8c52f848f1</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-1f1938ba-1cce-42b6-b97f-772738750325</ParentID>
+    <ReqID>REQ-74bd1ac1-801c-4946-a962-790f784cc466</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-b4206472-1f05-4b70-af44-b85917b94ec7</ParentID>
+    <ReqID>REQ-5b8a9673-c47b-4eae-b43d-cbe4c22d4954</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-f2b38c17-bdc9-40d9-b436-b14e3af34855</ParentID>
+    <ReqID>REQ-43bd6ece-1a55-498c-a0af-67f963494276</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-8ac44894-310a-43cb-90cf-f2140d77ead2</ParentID>
+    <ReqID>REQ-904bb31b-f538-48fc-99cb-dd952b8adec1</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-e73486ff-2ecd-4ea2-936c-b4c6eb883303</ParentID>
+    <ReqID>REQ-19643d04-3607-4b34-904d-3fd45df7cbcc</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-0362c147-7acb-4fc6-8da8-4a69a32f9cca</ParentID>
+    <ReqID>REQ-64273e88-fac9-414a-8f63-d07a6d36315c</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-0362c147-7acb-4fc6-8da8-4a69a32f9cca</ParentID>
+    <ReqID>REQ-7af28bbc-418a-4658-ac2e-dc04aa15b595</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-469a6013-f93c-4785-8bef-f6979f40ab64</ParentID>
+    <ReqID>REQ-64273e88-fac9-414a-8f63-d07a6d36315c</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-469a6013-f93c-4785-8bef-f6979f40ab64</ParentID>
+    <ReqID>REQ-b29b459c-6e62-43d3-b8f4-9212422998eb</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-a3d00704-0447-4ec6-af5a-9cba53e6362f</ParentID>
+    <ReqID>REQ-f0a4149d-e4af-47d7-8417-3f2215020705</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-6f090a03-4981-44ef-91a8-126e1f6e17ee</ParentID>
+    <ReqID>REQ-00786779-366f-422c-b0c1-8e505a28170c</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-6f090a03-4981-44ef-91a8-126e1f6e17ee</ParentID>
+    <ReqID>REQ-e0e611d5-52dd-49c3-9ba8-8b81ac4dbcdb</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-c1f61919-7d82-4439-be72-230cb358767e</ParentID>
+    <ReqID>REQ-b29b459c-6e62-43d3-b8f4-9212422998eb</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-c1f61919-7d82-4439-be72-230cb358767e</ParentID>
+    <ReqID>REQ-7af28bbc-418a-4658-ac2e-dc04aa15b595</ReqID>
+  </UCReq>
+  <UCReq>
+    <ParentID>UC-a4a727d8-fa9b-44f8-9315-37b324ec1fe7</ParentID>
+    <ReqID>REQ-7bbef86f-9cb4-4e36-b7b5-9a0cfadafd1e</ReqID>
   </UCReq>
   <Scenario>
     <UniqueID>MSS-3fd0bafc-428d-4d75-a2f9-e68c6fa00737</UniqueID>
@@ -1251,49 +1355,9 @@
     <DateModified>2022-05-10T20:22:27.0159763+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
-  <Step>
-    <UniqueID>ST-e34e6bfa-e16b-4cf4-abbd-2329025e7060</UniqueID>
-    <ParentID>MSS-3fd0bafc-428d-4d75-a2f9-e68c6fa00737</ParentID>
-    <Description>Въвеждане на данни за вход</Description>
-    <RichDescription>{\urtf1\ansi\ansicpg65001\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
-\viewkind4\uc1\pard\lang1026\f0\fs20\'c2\'fa\'e2\'e5\'e6\'e4\'e0\'ed\'e5 \'ed\'e0 \'e4\'e0\'ed\'ed\'e8 \'e7\'e0 \'e2\'f5\'ee\'e4\lang1033\f1\par
-}
-</RichDescription>
-    <Sequence>0</Sequence>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Step>
-  <Step>
-    <UniqueID>ST-29e3ef39-01c4-4e43-9a0e-c7d7094f30d0</UniqueID>
-    <ParentID>MSS-3fd0bafc-428d-4d75-a2f9-e68c6fa00737</ParentID>
-    <Description>Валидиране на данни за вход</Description>
-    <RichDescription>{\urtf1\ansi\ansicpg65001\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
-\viewkind4\uc1\pard\lang1026\f0\fs20\'c2\'e0\'eb\'e8\'e4\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'e4\'e0\'ed\'ed\'e8 \'e7\'e0 \'e2\'f5\'ee\'e4\lang1033\f1\par
-}
-</RichDescription>
-    <Sequence>1</Sequence>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Step>
-  <Step>
-    <UniqueID>ST-d6af98df-c773-4594-b2e4-9f86e70b8166</UniqueID>
-    <ParentID>ST-29e3ef39-01c4-4e43-9a0e-c7d7094f30d0</ParentID>
-    <Description>Нещо си там</Description>
-    <RichDescription>{\urtf1\ansi\ansicpg65001\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
-\viewkind4\uc1\pard\lang1026\f0\fs20\'cd\'e5\'f9\'ee \'f1\'e8 \'f2\'e0\'ec\lang1033\f1\par
-}
-</RichDescription>
-    <Sequence>0</Sequence>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Step>
-  <Step>
-    <UniqueID>ST-9f512bbb-04c6-4267-85bc-0bf8945021e9</UniqueID>
-    <ParentID>MSS-3fd0bafc-428d-4d75-a2f9-e68c6fa00737</ParentID>
-    <Description />
-    <Sequence>2</Sequence>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Step>
   <UserID>
     <DefaultPrefix>UC-</DefaultPrefix>
-    <NextValue>30</NextValue>
+    <NextValue>14</NextValue>
   </UserID>
   <UserID>
     <DefaultPrefix>A-</DefaultPrefix>
