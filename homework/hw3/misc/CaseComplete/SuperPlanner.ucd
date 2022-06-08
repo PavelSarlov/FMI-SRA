@@ -899,7 +899,7 @@
   </Requirement>
   <Requirement>
     <UniqueID>REQ-b29b459c-6e62-43d3-b8f4-9212422998eb</UniqueID>
-    <UserID>REQ-12.2</UserID>
+    <UserID>REQ-12.3</UserID>
     <ParentID>REQ-c18e3316-442c-4528-bdb3-1bc931e220e7</ParentID>
     <Name>Промяна на паролата</Name>
     <Description>Всеки потребител трябва да може да променя паролата си като новата парола трябва да е различна от старата парола.</Description>
@@ -908,7 +908,7 @@
 \viewkind4\uc1\pard\cf1\lang1026\f0\fs20\'c2\'f1\'e5\'ea\'e8 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \lang1033\'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'ec\'ee\'e6\'e5 \'e4\'e0 \'ef\'f0\'ee\'ec\'e5\'ed\'ff \'ef\'e0\'f0\'ee\'eb\'e0\'f2\'e0 \'f1\'e8 \'ea\'e0\'f2\'ee \'ed\'ee\'e2\'e0\'f2\'e0 \'ef\'e0\'f0\'ee\'eb\'e0 \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'e5 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'e0 \'ee\'f2 \'f1\'f2\'e0\'f0\'e0\'f2\'e0 \'ef\'e0\'f0\'ee\'eb\'e0.\f1\par
 }
 </RichDescription>
-    <Sequence>1</Sequence>
+    <Sequence>2</Sequence>
     <Type>Functional</Type>
     <Priority>2</Priority>
     <Source />
@@ -916,7 +916,7 @@
     <AssignedTo />
     <Release />
     <DateAdded>2022-05-10T19:47:01.5168832+03:00</DateAdded>
-    <DateModified>2022-06-04T11:18:31.0661758+03:00</DateModified>
+    <DateModified>2022-06-08T22:21:24.0438742+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
@@ -940,7 +940,7 @@
     <AssignedTo />
     <Release />
     <DateAdded>2022-05-10T19:47:24.5819122+03:00</DateAdded>
-    <DateModified>2022-06-04T11:18:31.0631749+03:00</DateModified>
+    <DateModified>2022-06-08T22:21:24.0379055+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
@@ -1476,10 +1476,10 @@
     <UserID>REQ-12</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Управление на профила</Name>
-    <Description />
+    <Description>Всеки регистриран потребител трябва да може да прови промени по своя профил.</Description>
     <RichDescription>{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
-{\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard\cf1\lang1026\f0\fs20\par
+{\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\lang1026\f0\fs20\'c2\'f1\'e5\'ea\'e8 \cf2\ul\'f0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\cf1\ulnone  \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'ec\'ee\'e6\'e5 \'e4\'e0 \'ef\'f0\'ee\'e2\'e8 \'ef\'f0\'ee\'ec\'e5\'ed\'e8 \'ef\'ee \'f1\'e2\'ee\'ff \'ef\'f0\'ee\'f4\'e8\'eb.\par
 }
 </RichDescription>
     <Sequence>11</Sequence>
@@ -1495,7 +1495,7 @@
   </Requirement>
   <Requirement>
     <UniqueID>REQ-397790d3-56be-4e77-95d1-3990358d1973</UniqueID>
-    <UserID>REQ-12.3</UserID>
+    <UserID>REQ-12.4</UserID>
     <ParentID>REQ-c18e3316-442c-4528-bdb3-1bc931e220e7</ParentID>
     <Name>Инструмент за двустъпкова автентикация</Name>
     <Description>Всеки потребител трябва да може да активира/деактивира инструмента за двустъпкова автентикация на своя профил.</Description>
@@ -1504,7 +1504,7 @@
 \viewkind4\uc1\pard\cf1\lang1026\f0\fs20\'c2\'f1\'e5\'ea\'e8 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'ec\'ee\'e6\'e5 \'e4\'e0 \'e0\'ea\'f2\'e8\'e2\'e8\'f0\'e0/\'e4\'e5\'e0\'ea\'f2\'e8\'e2\'e8\'f0\'e0 \'e8\'ed\'f1\'f2\'f0\'f3\'ec\'e5\'ed\'f2\'e0 \'e7\'e0 \'e4\'e2\'f3\'f1\'f2\'fa\'ef\'ea\'ee\'e2\'e0 \'e0\'e2\'f2\'e5\'ed\'f2\'e8\'ea\'e0\'f6\'e8\'ff \'ed\'e0 \'f1\'e2\'ee\'ff \'ef\'f0\'ee\'f4\'e8\'eb.\lang1033\f1\par
 }
 </RichDescription>
-    <Sequence>2</Sequence>
+    <Sequence>3</Sequence>
     <Type>Functional</Type>
     <Priority>2</Priority>
     <Source />
@@ -1512,12 +1512,12 @@
     <AssignedTo />
     <Release />
     <DateAdded>2022-06-04T08:56:21.1363814+03:00</DateAdded>
-    <DateModified>2022-06-04T11:18:31.0681747+03:00</DateModified>
+    <DateModified>2022-06-08T22:21:24.0494047+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-dd9ca7e2-ac25-41bd-8891-4760bfb0a6de</UniqueID>
-    <UserID>REQ-12.4</UserID>
+    <UserID>REQ-12.5</UserID>
     <ParentID>REQ-c18e3316-442c-4528-bdb3-1bc931e220e7</ParentID>
     <Name>Инструмент за известяване</Name>
     <Description>Всеки потребител трябва да може да избира по какъв начин да бъде известяван:
@@ -1534,7 +1534,7 @@
 \pard\par
 }
 </RichDescription>
-    <Sequence>3</Sequence>
+    <Sequence>4</Sequence>
     <Type>Functional</Type>
     <Priority>2</Priority>
     <Source />
@@ -1542,7 +1542,7 @@
     <AssignedTo />
     <Release />
     <DateAdded>2022-06-04T08:59:01.0568199+03:00</DateAdded>
-    <DateModified>2022-06-04T11:18:31.0711749+03:00</DateModified>
+    <DateModified>2022-06-08T22:21:24.0544333+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
@@ -1754,11 +1754,21 @@
     <UserID>REQ-13</UserID>
     <ParentID>P-faaaa6a9-83df-45b3-a94a-80bc3297a261</ParentID>
     <Name>Преглед на заявки за час</Name>
+    <Description>Изпълнителите на услуги трябва да могат да преглеждат списък с всички заявки за час за своята услуга.</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\lang1026\f0\fs20\'c8\'e7\'ef\'fa\'eb\'ed\'e8\'f2\'e5\'eb\'e8\'f2\'e5 \'ed\'e0 \'f3\'f1\'eb\'f3\'e3\'e8 \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'ec\'ee\'e3\'e0\'f2 \'e4\'e0 \'ef\'f0\'e5\'e3\'eb\'e5\'e6\'e4\'e0\'f2 \'f1\'ef\'e8\'f1\'fa\'ea \'f1 \'e2\'f1\'e8\'f7\'ea\'e8 \'e7\'e0\'ff\'e2\'ea\'e8 \'e7\'e0 \'f7\'e0\'f1 \'e7\'e0 \'f1\'e2\'ee\'ff\'f2\'e0 \'f3\'f1\'eb\'f3\'e3\'e0.\lang1033\f1\par
+}
+</RichDescription>
     <Sequence>12</Sequence>
-    <Type>Non-functional</Type>
+    <Type>Functional</Type>
     <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
     <DateAdded>2022-06-04T10:00:13.5009183+03:00</DateAdded>
-    <DateModified>2022-06-04T11:33:49.5852642+03:00</DateModified>
+    <DateModified>2022-06-08T22:38:09.8508307+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
@@ -1766,23 +1776,65 @@
     <UserID>REQ-7.1</UserID>
     <ParentID>REQ-e73cf24d-adcc-4a4c-9ac2-dca0c1aeb33b</ParentID>
     <Name>Редакция на заявен час</Name>
+    <Description>Потребителите клиенти на бизнеса трябва да могат да редактират своите заявени часове.</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\lang1033\f0\fs20\'cf\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'e8\'f2\'e5 \'ea\'eb\'e8\'e5\'ed\'f2\'e8 \'ed\'e0 \'e1\'e8\'e7\'ed\'e5\'f1\'e0 \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'ec\'ee\'e3\'e0\'f2 \'e4\'e0 \'f0\'e5\'e4\'e0\'ea\'f2\'e8\'f0\'e0\'f2 \'f1\'e2\'ee\'e8\'f2\'e5 \'e7\'e0\'ff\'e2\'e5\'ed\'e8 \'f7\'e0\'f1\'ee\'e2\'e5.\f1\par
+}
+</RichDescription>
     <Sequence>0</Sequence>
-    <Type>Non-functional</Type>
+    <Type>Functional</Type>
     <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
     <DateAdded>2022-06-04T10:44:27.1118587+03:00</DateAdded>
     <DateModified>2022-06-04T11:33:22.9624535+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-1f07a848-064f-47a2-968e-ad7848ad45d7</UniqueID>
-    <UserID>REQ-12.5</UserID>
+    <UserID>REQ-12.2</UserID>
     <ParentID>REQ-c18e3316-442c-4528-bdb3-1bc931e220e7</ParentID>
     <Name>Промяна на основна информация за услуга</Name>
-    <Sequence>4</Sequence>
-    <Type>Non-functional</Type>
-    <Priority>1</Priority>
+    <Description>Всеки изпълнител на услуги трябва да може да променя информацията за своя бизнес (услуга), в това число влизат адрес, описание, работни часове, ценоразпис.</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\lang1033\f0\fs20\'c2\'f1\'e5\'ea\'e8 \cf2\ul\'e8\'e7\'ef\'fa\'eb\'ed\'e8\'f2\'e5\'eb \'ed\'e0 \'f3\'f1\'eb\'f3\'e3\'e8\cf1\ulnone  \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'ec\'ee\'e6\'e5 \'e4\'e0 \'ef\'f0\'ee\'ec\'e5\'ed\'ff \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'ff\'f2\'e0 \'e7\'e0 \'f1\'e2\'ee\'ff \'e1\'e8\'e7\'ed\'e5\'f1 (\'f3\'f1\'eb\'f3\'e3\'e0), \'e2 \'f2\'ee\'e2\'e0 \'f7\'e8\'f1\'eb\'ee \'e2\'eb\'e8\'e7\'e0\'f2 \'e0\'e4\'f0\'e5\'f1, \'ee\'ef\'e8\'f1\'e0\'ed\'e8\'e5, \'f0\'e0\'e1\'ee\'f2\'ed\'e8 \'f7\'e0\'f1\'ee\'e2\'e5, \'f6\'e5\'ed\'ee\'f0\'e0\'e7\'ef\'e8\'f1.\f1\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
     <DateAdded>2022-06-04T16:17:21.893243+03:00</DateAdded>
-    <DateModified>2022-06-04T16:17:45.5166582+03:00</DateModified>
+    <DateModified>2022-06-08T22:22:35.1785631+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-c7a7b132-3209-451f-bbd4-2f74b4ad5496</UniqueID>
+    <UserID>REQ-13.3</UserID>
+    <ParentID>REQ-24f8d45d-ee2b-45ec-a0b1-e34cc4d2e875</ParentID>
+    <Name>Отхвърляне на час</Name>
+    <Description>Изпълнителите на услуги трябва да могат да отхвърлят заявените от клиентите часове, при което клиентите трябва да бъдат известени.</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\lang1033\f0\fs20\'c8\'e7\'ef\'fa\'eb\'ed\'e8\'f2\'e5\'eb\'e8\'f2\'e5 \'ed\'e0 \'f3\'f1\'eb\'f3\'e3\'e8 \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'ec\'ee\'e3\'e0\'f2 \'e4\'e0 \lang1026\'ee\'f2\'f5\'e2\'fa\'f0\'eb\'ff\'f2\lang1033  \'e7\'e0\'ff\'e2\'e5\'ed\'e8\'f2\'e5 \'ee\'f2 \'ea\'eb\'e8\'e5\'ed\'f2\'e8\'f2\'e5 \'f7\'e0\'f1\'ee\'e2\'e5, \'ef\'f0\'e8 \'ea\'ee\'e5\'f2\'ee \'ea\'eb\'e8\'e5\'ed\'f2\'e8\'f2\'e5 \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'e1\'fa\'e4\'e0\'f2 \'e8\'e7\'e2\'e5\'f1\'f2\'e5\'ed\'e8.\f1\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2022-06-08T22:19:13.7965656+03:00</DateAdded>
+    <DateModified>2022-06-08T22:19:18.5344899+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <UserID>
